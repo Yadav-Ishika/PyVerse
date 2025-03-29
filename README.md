@@ -52,7 +52,9 @@ This repository includes structured tutorials and examples on the following libr
 ```
 PyVerse/
 │-- Pandas/
+|   |
 |   ╰-- Creating DataFrame
+|       |
 |       ╰-- Creating A DataFrame.md
 |
 │-- NumPy/                NOT IN ACTION
