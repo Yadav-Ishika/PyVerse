@@ -52,8 +52,8 @@ This repository includes structured tutorials and examples on the following libr
 ```
 PyVerse/
 │-- Pandas/
-|   |-- Craeting DataFrame
-|       |-- Creating A DataFrame.md
+|   ╰-- Creating DataFrame
+|       ╰-- Creating A DataFrame.md
 |
 │-- NumPy/                NOT IN ACTION
 │-- Scikit-Learn/         NOT IN ACTION
@@ -70,7 +70,7 @@ PyVerse/
 │-- LightGBM/             NOT IN ACTION
 │-- Flask/                NOT IN ACTION
 │-- Django/               NOT IN ACTION
-│-- README.md
+╰-- README.md
 ```
 Each folder contains **structured code snippets, practical examples, and documentation**.
 
