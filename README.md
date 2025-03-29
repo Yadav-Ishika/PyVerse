@@ -51,7 +51,10 @@ This repository includes structured tutorials and examples on the following libr
 
 ```
 PyVerse/
-│-- Pandas/               NOT IN ACTION
+│-- Pandas/
+|   |-- Craeting DataFrame
+|       |-- Creating A DataFrame.md
+|
 │-- NumPy/                NOT IN ACTION
 │-- Scikit-Learn/         NOT IN ACTION
 │-- Seaborn/              NOT IN ACTION
