@@ -1,7 +1,7 @@
 # Pandas Series
 - A `Series` in `Pandas` is a **one-dimensional labeled array** that can hold any data type such as integers, strings, floats, or even Python objects. It is similar to a list or a `NumPy` array, but with an added feature — indexing.
 
- Each value in a `Series` is associated with a label (index), allowing for easy data **access** and **manipulation**. By default, the index is numeric starting from 0, but **custom labels** can be assigned
+ - Each value in a `Series` is associated with a label (index), allowing for easy data **access** and **manipulation**. By default, the index is numeric starting from 0, but **custom labels** can be assigned
  
 ``` Python
  # import pandas as pd
